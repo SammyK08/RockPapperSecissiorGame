@@ -15,7 +15,7 @@ namespace RockPapperSecissiorGame
            int computerWin = 0;
           int  playerWin = 0;
 
-            bool Continue = true;
+            bool ProgramContinue = true;
             do
             {
                 Random rmd = new Random();
@@ -99,10 +99,10 @@ namespace RockPapperSecissiorGame
                 Console.WriteLine("Do you want to continue game Y/N");
                 var decision = Console.ReadLine();
 
-                Continue= decision.Equals("Y", StringComparison.OrdinalIgnoreCase);
+                ProgramContinue= decision.Equals("Y", StringComparison.OrdinalIgnoreCase);
                 
 
-            } while (Continue);
+            } while (ProgramContinue);
 
             Console.WriteLine("Final Result");
             Console.WriteLine("computer win {0}",computerWin);
