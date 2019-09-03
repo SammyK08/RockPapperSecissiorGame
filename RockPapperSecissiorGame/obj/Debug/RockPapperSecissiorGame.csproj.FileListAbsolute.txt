@@ -1,0 +1,7 @@
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\bin\Debug\RockPapperSecissiorGame.exe.config
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\bin\Debug\RockPapperSecissiorGame.exe
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\bin\Debug\RockPapperSecissiorGame.pdb
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\obj\Debug\RockPapperSecissiorGame.csprojAssemblyReference.cache
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\obj\Debug\RockPapperSecissiorGame.csproj.CoreCompileInputs.cache
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\obj\Debug\RockPapperSecissiorGame.exe
+C:\Users\taran\Desktop\Visual Studio 2017 Projects\RockPapperSecissiorGame\RockPapperSecissiorGame\obj\Debug\RockPapperSecissiorGame.pdb
